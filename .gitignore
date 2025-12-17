@@ -1,3 +1,4 @@
 *.meta
 *.asset
-/public/unitportrait
+/public/unitportrait/us
+/public/unitportrait/ru
