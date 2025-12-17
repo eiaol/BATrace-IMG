@@ -1,0 +1,4 @@
+*.meta
+*.asset
+/public/icons
+/public/unitportrait
